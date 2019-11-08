@@ -16,9 +16,9 @@ import {
 } from "react-native";
 import moment from "moment";
 import PropTypes from "prop-types";
-import IconFa from "react-native-vector-icons/FontAwesome";
-import IconFa5 from "react-native-vector-icons/FontAwesome5Pro";
-import IconFa5Pro from "react-native-vector-icons/FontAwesome5Pro";
+import IconFa from '@fortawesome/react-native-fontawesome';
+import IconFa5 from "react-native-fontawesome-pro";
+import IconFa5Pro from "react-native-fontawesome-pro";
 import styles from "./styles";
 import Collapsible from "react-native-collapsible";
 import Comment from "./Comment";
